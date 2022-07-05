@@ -16,4 +16,7 @@ Find the source code here: [youzi3/XrayR](https://github.com/youzi3/XrayR)
 ```
 wget -N https://raw.githubusercontents.com/youzi3/XrayR-script/master/install.sh && bash install.sh
 ```
-
+OR
+```
+bash <(curl -Ls https://raw.githubusercontents.com/youzi3/XrayR-script/master/install.sh)
+```
