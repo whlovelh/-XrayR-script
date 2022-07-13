@@ -3,7 +3,7 @@ A Xray backend framework that can easily support many panels.
 
 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
 
-Find the source code here: [youzi3/XrayR](https://github.com/youzi3/XrayR)
+Find the source code here: [whlovelh/XrayR](https://github.com/whlovelh/-XrayR-script)
 
 如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
 
